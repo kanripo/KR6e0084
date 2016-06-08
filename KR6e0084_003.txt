@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1870
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0084_T_003-0560a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
@@ -1329,7 +1329,7 @@
 骨．八髓．九筋．十脈．十一脾．十二腎．十三心．¶
 十四肝．十五肺．十六大腸．十七小腸．十八¶
 胃．十九胞．二十糞．二十一尿．二十二垢．二¶
-十三汗．二十四膽．二十五結𦡲．二十六第．二¶
+十三汗．二十四膽．二十五結𦡲．二十六涕．二¶
 十七唾．二十八膿．二十九血．三十黃陰．三十¶
 一白陰．三十二肪．三十三𦙽．三十四腦．三十¶
 五腦膜．三十六精．二十四四種生死。謂方便¶
